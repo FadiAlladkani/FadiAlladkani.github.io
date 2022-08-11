@@ -1,11 +1,12 @@
 name: 'Github Pages Org Sync'
 on:
+  workflow_dispatch:
   push:
     branches:
       - main
 
 concurrency:
-  group: ${{ github.ref }}
+  group: ${{ github.ref || github.run_id }}
   cancel-in-progress: true
 
 jobs:
