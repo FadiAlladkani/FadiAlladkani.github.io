@@ -1,0 +1,9 @@
+* TODO Cleanup
+** TODO Improve github actions workflow
+   Need to look into caching and using variables better
+* TODO Styling
+** TODO Avoid adding <blockquote> if contents are empty
+** TODO Better fonts
+   Try using Iosevka
+** TODO More compact
+   Accordions should take less space
