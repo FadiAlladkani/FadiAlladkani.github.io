@@ -28,7 +28,6 @@
    (format "<meta name=\"author\" content=\"%s\">\n"
 	   (org-export-data (plist-get info :author) info))
    "<link href=\"css/pico.min.css\" rel=\"stylesheet\" style=\"text/css\" />\n"
-   "<script src=\"https://orgmode.org/org-info.js\"></script>"
    "</head>\n"
    "<body>\n"
    "<main class=\"container\">"
