@@ -8,6 +8,7 @@
 	 :publishing-directory "./out"
 	 :recursive 1
 	 :auto-sitemap 1
+	 :sitemap-filename "index.html"
 	 :publishing-function org-html-publish-to-html)))
 
 ;; Publish all projects to the publishing directory
