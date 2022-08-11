@@ -1,3 +1,6 @@
+;; Enable org-mode
+(require 'org)
+
 ;; Declare primary project
 (setq org-publish-project-alist
       '(("primary"
