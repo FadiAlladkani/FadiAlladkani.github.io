@@ -3,7 +3,7 @@ on:
   workflow_dispatch:
   push:
     branches:
-      - main
+      - master
 
 concurrency:
   group: ${{ github.ref || github.run_id }}
