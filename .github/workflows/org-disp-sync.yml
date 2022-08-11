@@ -36,7 +36,8 @@ jobs:
 
       - name: Upload Files
         uses: actions/upload-pages-artifact@v1.0.3
-        path: artifact.tar.gz
+        with:
+          path: artifact.tar.gz
 
       - name: Deploy Files
         uses: actions/deploy-pages@v1
