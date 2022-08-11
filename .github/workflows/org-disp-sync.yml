@@ -31,13 +31,10 @@ jobs:
       - name: Generate HTML
         run: emacs --script ./org-publish-config.el
 
-      - name: Zipping Files for Upload
-        run: tar -zcvf artifact.tar.gz ./out
-
       - name: Upload Files
         uses: actions/upload-pages-artifact@v1.0.3
         with:
-          path: artifact.tar.gz
+          path: ./out/
 
       - name: Deploy Files
         uses: actions/deploy-pages@v1
