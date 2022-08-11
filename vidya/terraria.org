@@ -1,0 +1,96 @@
+* Bosses
+** DONE The Grand Thunder Birb
+   CLOSED: [2022-08-11 Thu 19:05]
+** DONE King Slime
+   CLOSED: [2022-08-11 Thu 19:05]
+** DONE Desert Scourge
+   CLOSED: [2022-08-11 Thu 19:05]
+** DONE Eye of Cthulhu
+   CLOSED: [2022-08-11 Thu 19:05]
+** DONE Crabulon
+   CLOSED: [2022-08-11 Thu 19:05]
+** DONE The Decree
+   CLOSED: [2022-08-11 Thu 19:05]
+** DONE Brain of Cthulhu
+   CLOSED: [2022-08-11 Thu 19:05]
+** TODO The Queen Jellyfish
+** DONE The Perforators
+   CLOSED: [2022-08-11 Thu 19:05]
+** TODO Viscount
+** TODO Queen Bee
+** TODO The Flaming Pumpkin
+** TODO Skeletron
+** TODO Granite Energy Storm
+** TODO The Slime God
+** TODO The Buried Champion
+** TODO Jensen, the Grand Harpy
+** TODO The Star Scouter
+** TODO Wall of Flesh
+** TODO Cryogen
+** TODO Borean Strider
+** TODO Araneas
+** TODO Coznix, the Fallen Beholder
+** TODO The Twins
+** TODO Aquatic Scourge
+** TODO The Destroyer
+** TODO Brimstone Elemental
+** TODO Skeletron Prime
+** TODO The Lich
+** TODO Calamitas
+** TODO Harpy Queen, Raynare
+** TODO Plantera
+** TODO Leviathan and Anahita
+** TODO Astrum Aureus
+** TODO Golem
+** TODO Abyssion, the Forgotten One
+** TODO The Plaguebringer Goliath
+** TODO Primordia
+** TODO Duke Fishron
+** TODO Ravager
+** TODO Lunatic Cultist
+** TODO Astrum Deus
+** TODO Moon Lord
+** TODO Abaddon, the Source of the Affliction
+** TODO The Primordials
+** TODO Profaned Guardians
+** TODO The Dragonfolly
+** TODO Araghur, the Flare Serpent
+** TODO Providence, the Profaned Goddess
+** TODO Storm Weaver
+** TODO Ceaseless Void
+** TODO The Lost Siblings
+** TODO Signus, Envoy of the Devourer
+** TODO Polterghast
+** TODO The Old Duke
+** TODO Erazor
+** TODO The Devourer of Gods
+** TODO Nihilus
+** TODO Jungle Dragon, Yharon
+** TODO Exo Mechs
+** TODO Supreme Calamitas
+** TODO Adult Eidolon Wyrm
+* Mini-Bosses
+** DONE Patch Werk
+   CLOSED: [2022-08-11 Thu 19:03]
+** TODO Corpse Bloom
+** TODO Illusionist
+** TODO Zombie Piglin Brute
+** TODO Giant Clam
+** TODO Earth Elemental
+** TODO Cloud Elemental
+** TODO Cragmaw Mire
+** TODO Armored Digger
+** TODO Great Sand Shark
+** TODO Plaguebringer
+** TODO Mauler
+** TODO Colossal Squid
+** TODO Reaper Shark
+** TODO Eidolon Wyrm
+** TODO Nuclear Terror
+* Pre-boss Checklists
+  Still need to fill this section up
+* NPCs
+  Still need to fill this section up
+** TODO Vanilla
+** TODO Calamity
+** TODO Thorium
