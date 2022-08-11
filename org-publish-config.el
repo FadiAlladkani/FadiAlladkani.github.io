@@ -1,5 +1,3 @@
-#!/usr/bin/emacs --script
-
 ;; Declare primary project
 (setq org-publish-project-alist
       '(("primary"
