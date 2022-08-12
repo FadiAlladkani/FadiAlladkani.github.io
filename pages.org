@@ -9,5 +9,9 @@
    Try using Iosevka
 ** TODO More compact
    Accordions should take less space
-** TODO Fix issues with styling not showing
+** DONE Fix issues with styling not showing
+   CLOSED: [2022-08-12 Fri 04:48]
+   Had to change to absolute path to get it working in nested folders
 ** TODO Fix issues with embedded html in org notes affecting site
+** TODO Fix mobile app display
+   Font too small
