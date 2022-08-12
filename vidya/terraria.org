@@ -90,7 +90,83 @@
 * Pre-boss Checklists
   Still need to fill this section up
 * NPCs
-  Still need to fill this section up
 ** TODO Vanilla
+*** DONE Guide
+    CLOSED: [2022-08-12 Fri 14:20]
+*** DONE Merchant
+    CLOSED: [2022-08-12 Fri 14:20]
+*** DONE Nurse
+    CLOSED: [2022-08-12 Fri 14:20]
+*** DONE Demolitionist
+    CLOSED: [2022-08-12 Fri 14:20]
+*** DONE Dye Trader
+    CLOSED: [2022-08-12 Fri 14:20]
+*** DONE Angler
+    CLOSED: [2022-08-12 Fri 14:20]
+*** DONE Dryad
+    CLOSED: [2022-08-12 Fri 14:20]
+*** DONE Painter
+    CLOSED: [2022-08-12 Fri 14:21]
+*** DONE Arms Dealer
+    CLOSED: [2022-08-12 Fri 14:21]
+*** DONE Tavernkeep
+    CLOSED: [2022-08-12 Fri 14:21]
+*** DONE Stylist
+    CLOSED: [2022-08-12 Fri 14:21]
+*** DONE Goblin Tinkerer
+    CLOSED: [2022-08-12 Fri 14:21]
+*** TODO Witch Doctor
+*** TODO Clothier
+*** TODO Mechanic
+*** DONE Party Girl
+    CLOSED: [2022-08-12 Fri 14:21]
+*** TODO Wizard
+*** TODO Truffle
+*** TODO Pirate
+*** TODO Steampunker
+*** TODO Cyborg
+*** TODO Santa Claus
+*** TODO Princess
 ** TODO Calamity
+*** DONE Sea King
+    CLOSED: [2022-08-12 Fri 14:22]
+*** TODO Bandit
+*** TODO Drunk Princess
+*** TODO Archmage
+*** TODO Brimstone Witch
 ** TODO Thorium
+*** DONE Cobbler
+    CLOSED: [2022-08-12 Fri 14:23]
+*** DONE Desert Acolyte
+    CLOSED: [2022-08-12 Fri 14:23]
+*** DONE Cook
+    CLOSED: [2022-08-12 Fri 14:23]
+*** DONE Confused Zombie
+    CLOSED: [2022-08-12 Fri 14:23]
+*** DONE Blacksmith
+    CLOSED: [2022-08-12 Fri 14:23]
+*** DONE Tracker
+    CLOSED: [2022-08-12 Fri 14:24]
+*** TODO Diverman
+*** TODO Druid
+*** TODO Spritualist
+*** TODO Weapon Master
+** TODO Shadows of Abaddon
+*** TODO Pandolar Salvager
+*** DONE Decorationist
+    CLOSED: [2022-08-12 Fri 14:26]
+*** DONE Scavenger
+    CLOSED: [2022-08-12 Fri 14:26]
+*** TODO Soraniti
+*** TODO Neil
+*** TODO Erazor
+** TODO Fargo
+*** TODO LumberJack
+*** DONE Deviantt
+    CLOSED: [2022-08-12 Fri 14:26]
+*** DONE Abominationn
+    CLOSED: [2022-08-12 Fri 14:27]
+*** DONE Mutant
+    CLOSED: [2022-08-12 Fri 14:27]
+*** DONE Squirrel
+    CLOSED: [2022-08-12 Fri 14:27]
