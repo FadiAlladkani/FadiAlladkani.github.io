@@ -27,7 +27,7 @@
 	   (org-export-data (or (plist-get info :title) "") info))
    (format "<meta name=\"author\" content=\"%s\">\n"
 	   (org-export-data (plist-get info :author) info))
-   "<link href=\"css/pico.min.css\" rel=\"stylesheet\" style=\"text/css\" />\n"
+   "<link href=\"/css/pico.min.css\" rel=\"stylesheet\" style=\"text/css\" />\n"
    "</head>\n"
    "<body>\n"
    "<main class=\"container\">"
