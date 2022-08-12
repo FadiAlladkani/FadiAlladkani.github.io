@@ -3,6 +3,9 @@
 * TODO Challenges
 ** TODO EC11
 *** TODO 3
+**** 191,193,211,212,213,214,222,223,226,228,231
+**** 191,193,211,212,214,222,223,226,228,231,234
+**** 191,193,211,212,213,214,222,223,228,232,234
 *** TODO 4
 *** TODO 5
 ** TODO EC12
@@ -58,11 +61,23 @@
     Open and real all pages in the How to Play tab, including the Dilation tab
 * TS Tree
   Try to find the optimal choice of TS tree to complete the challenges above
-** Current
-*** 191,192,193,201,211,212,213,214,223,232
-*** IP Cap still not reached, waiting
-*** TODO Compute IP cap once tree settles down
-** Candidate
-   | Tree | IP Reached |
-   |------+------------|
-   |      | N/A        |
+** Iteration 1
+*** Current
+**** DONE Compute IP cap once tree settles down
+     CLOSED: [2022-08-12 Fri 10:34]
+**** 191,192,193,201,211,212,213,214,223,232
+**** e191,900
+**** IP Cap still not reached, waiting
+*** Candidate
+    | Tree | IP Reached |
+    |------+------------|
+    | +221 | e195,000   |
+    | +222 | e195,000   |
+    | +226 | e194,500   |
+    | +227 | e194,000   |
+    | +228 | e193,000   |
+** Iteration 2
+*** Current
+**** 191,192,193,201,211,212,213,214,223,232,221
+**** e199,400
+*** Candidate
