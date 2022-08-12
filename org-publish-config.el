@@ -55,9 +55,9 @@
   (concat
    "<details><summary>"
    (if (string= "TODO" (org-element-property :todo-keyword object))
-       "<ins><strong>TODO </strong></ins>" "")
+       "<ins><strong>TODO</strong></ins> " "")
    (if (string= "DONE" (org-element-property :todo-keyword object))
-       (format "<mark><em data-tooltip=\"%s\">DONE </em></mark>"
+       (format "<mark><em data-tooltip=\"%s\">DONE</em></mark> "
 	       (format-timestamp (org-element-property :closed object))))
    (format "%s</summary>"
 	   (nth 0 (org-element-property :title object)))
