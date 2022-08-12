@@ -170,3 +170,8 @@
     CLOSED: [2022-08-12 Fri 14:27]
 *** DONE Squirrel
     CLOSED: [2022-08-12 Fri 14:27]
+* Master Plan
+  We need to rush Hardmode to get the teleporter
+  This lets us move around the map rapidly, finally resolving those issues
+  The list of bosses to kill should reflect this, which would make things much easier
+  Our final goal is to kill a single mechanical boss, which is most likely going to be the twins
