@@ -1,7 +1,8 @@
 * TODO Integrate ImGUI
 ** TODO Look into using FetchContent_Declare
 ** TODO Assign a gui to each solver
-* TODO Solver default colormap parameters
+* DONE Solver default colormap parameters
+  CLOSED: [2022-08-13 Sat 19:15]
   This is just to make the interface easier
   Set the default values for e.g. the colormap
 * TODO Different const colormaps
