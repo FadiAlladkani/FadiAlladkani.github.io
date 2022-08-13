@@ -23,7 +23,8 @@
 *** TODO No ethical Consumption
 *** TODO Unique snowflakes
 *** TODO I never liked this infinity stuff anyway
-*** TODO When will it be enough?
+*** DONE When will it be enough?
+    CLOSED: [2022-08-13 Sat 15:37]
 *** TODO Faster than a potato^286078
 *** TODO I told you already, time is relative
 *** TODO Now you're thinking with dilation!

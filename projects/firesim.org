@@ -1,0 +1,37 @@
+* TODO Integrate ImGUI
+** TODO Look into using FetchContent_Declare
+** TODO Assign a gui to each solver
+* TODO Solver default colormap parameters
+  This is just to make the interface easier
+  Set the default values for e.g. the colormap
+* TODO Different const colormaps
+** TODO Grayscale
+** TODO Red -> Blue
+* TODO Drawing
+** TODO Add thickness parameter
+** TODO Add arrow drawing
+** TODO Make drawing clip to image boundary
+   We can then clean up the VectorFieldSolver's line drawing functions
+* TODO Arrow drawing function
+** TODO Add it to drawing.hpp
+** TODO Add tests
+* TODO Add tests for line drawing function
+* TODO Test solver domain translation
+* TODO Documentation
+** TODO solver
+** TODO drawing
+** TODO scalar_field_solver
+** TODO vector_field_solver
+* TODO VectorFieldSolver
+** TODO Construct from ScalarFieldSolver
+   Use the gradient to build a vector field
+** TODO Use ScalarFieldSolver to draw magnitudes
+** TODO Documentation
+** TODO Draw arrows
+* TODO Add time component
+  Probably pass in a delta into the step_simulation function
+* TODO Data types
+** DONE Represent Vector-valued functions
+   CLOSED: [2022-08-13 Sat 16:38]
+** TODO Represent Scalar Fields
+** TODO Represent Vector Fields
