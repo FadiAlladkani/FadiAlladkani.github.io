@@ -15,10 +15,13 @@
 *** TODO 4
 *** TODO 5
 * TODO Achievements
-** TODO Row 12
-*** TODO Popular Music
+** DONE Row 12
+CLOSED: [2022-08-14 Sun 16:49]
+*** DONE Popular Music
+CLOSED: [2022-08-14 Sun 16:49]
     Should probably spec into Active Path, reach 180, infinity to reset AM Galaxies
-*** TODO What do I have to do to get rid of you
+*** DONE What do I have to do to get rid of you
+CLOSED: [2022-08-14 Sun 16:04]
 ** TODO Row 13
 *** TODO No ethical Consumption
 *** TODO Unique snowflakes
