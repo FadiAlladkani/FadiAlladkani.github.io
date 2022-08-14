@@ -1,6 +1,13 @@
-* TODO Integrate ImGUI
-** TODO Look into using FetchContent_Declare
-** TODO Assign a gui to each solver
+* TODO Combine window and application classes
+* TODO OpenGL Refactor
+* DONE Integrate ImGUI
+  CLOSED: [2022-08-14 Sun 17:19]
+  This will require refactoring into openGL
+** DONE Look into using FetchContent_Declare
+   CLOSED: [2022-08-14 Sun 13:50]
+   Added custom imgui target
+** DONE Assign a gui to each solver
+   CLOSED: [2022-08-14 Sun 17:19]
 * DONE Solver default colormap parameters
   CLOSED: [2022-08-13 Sat 19:15]
   This is just to make the interface easier
@@ -36,3 +43,7 @@
    CLOSED: [2022-08-13 Sat 16:38]
 ** TODO Represent Scalar Fields
 ** TODO Represent Vector Fields
+* TODO Colormap GUI
+  The colormap itself should have a draw_gui function
+* TODO Bug Bucket
+** TODO X translation is weird, producing a location of 1.3 at the edge
