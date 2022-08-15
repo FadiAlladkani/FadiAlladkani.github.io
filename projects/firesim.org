@@ -43,7 +43,11 @@
    CLOSED: [2022-08-13 Sat 16:38]
 ** TODO Represent Scalar Fields
 ** TODO Represent Vector Fields
-* TODO Colormap GUI
+* DONE Colormap GUI
+  CLOSED: [2022-08-15 Mon 02:07]
   The colormap itself should have a draw_gui function
 * TODO Bug Bucket
-** TODO X translation is weird, producing a location of 1.3 at the edge
+** DONE X translation is weird, producing a location of 1.3 at the edge
+   CLOSED: [2022-08-15 Mon 01:43]
+** TODO Fix discrepancy between window resolution and domain steps
+* TODO Enable all warnings
