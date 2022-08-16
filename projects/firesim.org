@@ -21,7 +21,9 @@
 ** TODO Make drawing clip to image boundary
    We can then clean up the VectorFieldSolver's line drawing functions
 * TODO Arrow drawing function
-** TODO Add it to drawing.hpp
+** DONE Add it to drawing.hpp
+   CLOSED: [2022-08-15 Mon 06:56]
+** TODO Fill triangle
 ** TODO Add tests
 * TODO Add tests for line drawing function
 * TODO Test solver domain translation
@@ -33,7 +35,8 @@
 * TODO VectorFieldSolver
 ** TODO Construct from ScalarFieldSolver
    Use the gradient to build a vector field
-** TODO Use ScalarFieldSolver to draw magnitudes
+** DONE Use ScalarFieldSolver to draw magnitudes
+   CLOSED: [2022-08-15 Mon 06:24]
 ** TODO Documentation
 ** TODO Draw arrows
 * TODO Add time component

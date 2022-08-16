@@ -24,7 +24,7 @@ CLOSED: [2022-08-14 Sun 16:49]
 CLOSED: [2022-08-14 Sun 16:04]
 ** TODO Row 13
 *** DONE No ethical Consumption
-CLOSED: [2022-08-16 Tue 09:53]
+    CLOSED: [2022-08-16 Tue 09:53]
 *** TODO Unique snowflakes
 *** TODO I never liked this infinity stuff anyway
 *** DONE When will it be enough?
@@ -94,5 +94,5 @@ CLOSED: [2022-08-16 Tue 09:53]
 ** Iteration 3
 *** Current
 **** 191,192,193,201,211,212,213,214,223,232,228,234
-**** e217,700
+**** e222,000
 *** Candidate
