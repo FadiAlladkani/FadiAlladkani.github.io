@@ -1,0 +1,65 @@
+* Reviewer 7H9e
+  Weak Reject
+** Strengths
+*** Good experimental results on combined dataset
+*** Method is simple yet effective to combine different models and datasets
+** Weaknesses
+*** Limited impact of results
+    These results are not surprising in the literature since ensembles are well-known in the literature
+*** Most diversity comes from different datasets which makes the ensemble training easy
+*** Would be interesting to add a 3rd dataset to examine performance on completely novel objects
+** Proposed Response
+*** Although ensemble methods are well-studied, few have attempted to apply them to grasping
+*** This allows us to see if they are viable with the current pool of state-of-the-art networks
+*** Allows us to see if the performance gain is worth the trouble
+*** Allows us to make inference on how to further improve the state-of-the-art (more datasets)
+*** Adding another dataset may take some time depending on how difficult acquiring and evaluating on it is
+* Reviewer dhCr
+  Weak Accept
+** Strengths
+*** Evaluating how much we could benefit by combining methods/datasets is interesting
+** Weaknesses
+*** Method is designed for grasping, but ensembling is applicable to other domains, where it is less novel
+*** Evaluation on unseen datasets is important as mentioned in the limitation section
+*** Clarification on the benefits of combining diff methods vs diff datasets would be nice
+** Proposed Response
+*** Novelty complaints are similar to the ones by Reviewer 7H9e, response may be similar
+*** Unseen datasets (having a 3rd dataset) is again similar to the minor point added by Reviewer 7H9e
+*** TODO Can easily add clarification on the benefits of methods vs datasets for diversity
+* Reviewer W7kz
+  Weak Reject
+** Strengths
+*** Using ensembles to predict grasp quality is underexplored and shows strong performance improvements
+** Weaknesses
+*** No direct connection to robotics (real world/simulated experiments)
+    Rely on dataset performance is not good enough
+*** No citations to other highly relevant works
+    Mainly discusses lack of citations to 6dof grasping algorithm papers
+*** State-of-the-art grasping is already working on 6D grasps, this is too simple
+*** Add comment on the additional computational overhead (e.g. time of execution)
+*** Evaluation of the algorithm on 6D grasping datasets like ACRONYM to compare to 6D algorithms
+*** Missing details on how to train the ensemble network
+** Proposed Response
+*** TODO Can maybe run some simulation experiments, but it will be quite time consuming
+*** TODO We can add a section in the related work to discuss 6D grasps
+*** Although new algorithms are 6D, planar methods are still widely applicable
+    In some settings they may perform better (need to check)
+*** Difficult to evaluate on 6D datasets without heavy pre-processing of the data, but doable
+*** TODO Add details on training ensemble network
+* Reviewer QSn3
+  Strong Reject
+** Strengths
+*** Technical details present clearly
+*** Diversity metric study is interesting
+*** Ablation study is great
+** Weaknesses
+*** It is unclear how generalization is tested, real experiments or a third dataset helps
+    Although it was included in the limitations section, it is quite important to have
+*** Novelty is a bit unclear
+    Although ensemble applied to grasping is new, the technical innovation is marginal
+*** Comparison is a bit unfair since experts are trained on individual datasets but ensemble uses all
+    Would be better to train experts on all datasets as well to compare vs ensemble
+** Proposed Response
+*** Generalization complaints are similar to what other reviewers mentioned
+*** Novelty can be explained similar to the response to Reviewer 7H9e
+*** TODO Comparison can be clarified by training experts on all datasets to show

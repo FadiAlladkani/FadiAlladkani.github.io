@@ -1,0 +1,5 @@
+* TODO Read Linear Pile Manipulation Paper
+  [[https://arxiv.org/pdf/2002.09093.pdf][Link to Paper]]
+* TODO Setup Project on mer-lab repo
+** TODO Transfer over code from local repo
+** TODO Cleanup and integrate w/o compile issues
