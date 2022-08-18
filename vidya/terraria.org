@@ -20,12 +20,14 @@
 ** DONE Queen Bee
    CLOSED: [2022-08-14 Sun 15:23]
 ** TODO The Flaming Pumpkin
-** TODO Skeletron
+** DONE Skeletron
+   CLOSED: [2022-08-18 Thu 16:25]
 ** TODO Granite Energy Storm
 ** TODO The Slime God
 ** TODO The Buried Champion
 ** TODO Jensen, the Grand Harpy
 ** TODO The Star Scouter
+** TODO Deviantt
 ** TODO Wall of Flesh
 ** TODO Cryogen
 ** TODO Borean Strider
@@ -96,6 +98,9 @@
     CLOSED: [2022-08-14 Sun 15:22]
 *** DONE Hive Pack
     CLOSED: [2022-08-14 Sun 15:22]
+** TODO Slime God
+*** TODO Skyline Wings
+*** TODO Black Anurian
 * NPCs
 ** TODO Vanilla
 *** DONE Guide
@@ -124,8 +129,10 @@
     CLOSED: [2022-08-12 Fri 14:21]
 *** DONE Witch Doctor
     CLOSED: [2022-08-14 Sun 17:23]
-*** TODO Clothier
-*** TODO Mechanic
+*** DONE Clothier
+    CLOSED: [2022-08-18 Thu 16:49]
+*** DONE Mechanic
+    CLOSED: [2022-08-18 Thu 16:43]
 *** DONE Party Girl
     CLOSED: [2022-08-12 Fri 14:21]
 *** TODO Wizard

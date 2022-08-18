@@ -59,7 +59,14 @@
     Although ensemble applied to grasping is new, the technical innovation is marginal
 *** Comparison is a bit unfair since experts are trained on individual datasets but ensemble uses all
     Would be better to train experts on all datasets as well to compare vs ensemble
+*** Explain the output of the angles better (it is produced as cos and sin)
+*** What is the individual test-set performance of experts?
+*** It is worth it to examine how the IoU metric would correlate with a grasp accuracy increase
+*** It would be helpful to see more fair evaluation of the ensemble method
+    Basically trying to say that we need better illustration of the effect of IoU
 ** Proposed Response
 *** Generalization complaints are similar to what other reviewers mentioned
 *** Novelty can be explained similar to the response to Reviewer 7H9e
 *** TODO Comparison can be clarified by training experts on all datasets to show
+*** TODO Can add additional explanation for output
+*** Mention that we are the first people discussing the relevance of IoU
