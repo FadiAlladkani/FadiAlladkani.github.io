@@ -23,6 +23,7 @@
 * TODO Arrow drawing function
 ** DONE Add it to drawing.hpp
    CLOSED: [2022-08-15 Mon 06:56]
+** TODO Fix issues with arrow head looking whacky
 ** TODO Fill triangle
 ** TODO Add tests
 * TODO Add tests for line drawing function
