@@ -51,6 +51,11 @@
 	  (org-element-property :hour-start timestamp)
 	  (org-element-property :minute-start timestamp)))
 
+(defun is-whitespace (text)
+  (or (not text)
+      (string= ""
+	       (string-trim text))))
+
 (defun pico-html-headline (object contents info)
   (concat
    "<details><summary>"
@@ -61,11 +66,12 @@
 	       (format-timestamp (org-element-property :closed object))))
    (format "%s</summary>"
 	   (nth 0 (org-element-property :title object)))
-   (if (not (string= contents ""))
+   (if (not (is-whitespace contents))
        (concat
 	"<blockquote>"
 	contents
-	"</blockquote>"))
+	"</blockquote>")
+     "")
    "</details>\n"))
 
 ;; Custom exporter
