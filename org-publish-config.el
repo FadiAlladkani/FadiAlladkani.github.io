@@ -61,9 +61,11 @@
 	       (format-timestamp (org-element-property :closed object))))
    (format "%s</summary>"
 	   (nth 0 (org-element-property :title object)))
-   "<blockquote>"
-   contents
-   "</blockquote>"
+   (if (not (string= contents ""))
+       (concat
+	"<blockquote>"
+	contents
+	"</blockquote>"))
    "</details>\n"))
 
 ;; Custom exporter
