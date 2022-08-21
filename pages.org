@@ -4,7 +4,8 @@
 ** TODO Simple hotkey to push changes
    Add it to init.el/emacs.d
 * TODO Styling
-** TODO Avoid adding blockquote if contents are empty
+** DONE Avoid adding blockquote if contents are empty
+   CLOSED: [2022-08-21 Sun 19:12]
 ** TODO Better fonts
    Try using Iosevka
 ** TODO More compact

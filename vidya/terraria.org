@@ -26,8 +26,10 @@
 ** TODO Granite Energy Storm
 ** DONE The Slime God
    CLOSED: [2022-08-19 Fri 11:35]
-** TODO The Buried Champion
-** TODO Jensen, the Grand Harpy
+** DONE The Buried Champion
+   CLOSED: [2022-08-21 Sun 10:39]
+** DONE Jensen, the Grand Harpy
+   CLOSED: [2022-08-21 Sun 16:37]
 ** TODO The Star Scouter
 ** TODO Deviantt
 ** TODO Wall of Flesh
@@ -166,7 +168,8 @@
     CLOSED: [2022-08-12 Fri 14:24]
 *** TODO Diverman
 *** TODO Druid
-*** TODO Spritualist
+*** DONE Spritualist
+    CLOSED: [2022-08-21 Sun 11:19]
 *** TODO Weapon Master
 ** TODO Shadows of Abaddon
 *** TODO Pandolar Salvager
