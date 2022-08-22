@@ -32,8 +32,10 @@ CLOSED: [2022-08-14 Sun 16:04]
 *** TODO I never liked this infinity stuff anyway
 *** DONE When will it be enough?
     CLOSED: [2022-08-13 Sat 15:37]
-*** TODO Faster than a potato^286078
-*** TODO I told you already, time is relative
+*** DONE Faster than a potato^286078
+    CLOSED: [2022-08-22 Mon 18:34]
+*** DONE I told you already, time is relative
+    CLOSED: [2022-08-22 Mon 18:34]
 *** TODO Now you're thinking with dilation!
 *** TODO This is what I have to do to get rid of you
 * TODO Secret Achievements
