@@ -1,7 +1,9 @@
 * DONE Get Secret Achievements from WIKI
   CLOSED: [2022-08-12 Fri 05:25]
-* TODO Challenges
-** TODO EC11
+* DONE Challenges
+  CLOSED: [2022-08-23 Tue 08:27]
+** DONE EC11
+   CLOSED: [2022-08-23 Tue 08:27]
 *** DONE 3
 CLOSED: [2022-08-19 Fri 03:46]
 **** 191,193,211,212,213,214,222,223,226,228,231
@@ -10,13 +12,20 @@ CLOSED: [2022-08-19 Fri 03:46]
 **** 191,192,193,211,212,213,222,223,225,231,233
 *** DONE 4
     CLOSED: [2022-08-19 Fri 06:00]
-*** TODO 5
-** TODO EC12
-*** TODO 1
-*** TODO 2
-*** TODO 3
-*** TODO 4
-*** TODO 5
+*** DONE 5
+    CLOSED: [2022-08-23 Tue 08:27]
+** DONE EC12
+   CLOSED: [2022-08-23 Tue 08:27]
+*** DONE 1
+    CLOSED: [2022-08-23 Tue 08:27]
+*** DONE 2
+    CLOSED: [2022-08-23 Tue 08:27]
+*** DONE 3
+    CLOSED: [2022-08-23 Tue 08:27]
+*** DONE 4
+    CLOSED: [2022-08-23 Tue 08:27]
+*** DONE 5
+    CLOSED: [2022-08-23 Tue 08:27]
 * TODO Achievements
 ** DONE Row 12
 CLOSED: [2022-08-14 Sun 16:49]
