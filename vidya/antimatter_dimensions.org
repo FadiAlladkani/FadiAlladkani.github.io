@@ -45,7 +45,8 @@ CLOSED: [2022-08-14 Sun 16:04]
     CLOSED: [2022-08-22 Mon 18:34]
 *** DONE I told you already, time is relative
     CLOSED: [2022-08-22 Mon 18:34]
-*** TODO Now you're thinking with dilation!
+*** DONE Now you're thinking with dilation!
+    CLOSED: [2022-08-25 Thu 09:02]
 *** TODO This is what I have to do to get rid of you
 * TODO Secret Achievements
 ** TODO Row 1
