@@ -1,0 +1,75 @@
+* TODO 3DNPC
+  See wiki at [[https://3dnpc.com/wiki/interesting-npcs/][Wiki Link]]
+** TODO Full Quests
+*** TODO Forgotten Lore
+*** TODO The Radiant Dark
+*** TODO Honor's Calling
+*** TODO The Children Fair
+*** TODO The Way to a Big Oaf's Heart
+*** TODO The Loudest Whisper
+*** TODO The Way of the Nine
+*** TODO Birds of a Feather
+*** TODO To Warm Sands
+*** TODO Brother and Keeper
+*** TODO The Raven of Anvil
+*** TODO Bards, Beasts, and Beauties
+*** TODO Pit Dogs
+*** TODO Vigilance and Virtue
+*** TODO A Rose without Thorns
+*** TODO The Sleeping Giant
+*** TODO The Teleportation Machine
+*** TODO Stolen Property
+*** TODO Idle Dreamds
+*** TODO The Gales of Guilt
+*** TODO The Immortal Coil
+*** TODO The Aldmeri Prisoner
+*** TODO A Debt of Blood
+*** TODO As You Like It
+** TODO Miscellaneous Quests
+*** TODO Mogo's Mead
+*** TODO The Elven Sword
+*** TODO Relic's Revival
+*** TODO The Paper Mirror
+*** TODO The Law Always Wins
+*** TODO The Carber and The Collector
+*** TODO The Conspiracy of the 7000 Steps
+*** TODO Hunter's Quarry
+*** TODO A Spell for Rumarin
+*** TODO Bite the Hand That Feeds You
+*** TODO Azzarian's Gold
+*** TODO Thrice-Bitten, Once Shy
+*** TODO Robber's Refuge
+*** TODO Spell it Out For Me
+*** TODO Black Robes
+*** TODO The Milk-Drinker
+*** TODO A Crabber's Wife
+*** TODO The House on the Hill
+*** TODO Tailor Made / A Good Fit
+*** TODO Fenced In
+*** TODO A Thousand Words
+*** TODO Children of the Dust
+*** TODO Transformation
+*** TODO The Curse
+** TODO Blood Of Kings
+*** TODO From the Blood of Kings
+*** TODO Faces and Names
+*** TODO The Bloodsmith
+*** TODO The Harbinger of Us All
+*** TODO Blood and Bones
+*** TODO The Beast Who Cannot Be Slain
+*** TODO An End to Keep
+** TODO Darkened Steel
+*** TODO Darkened Steel
+*** TODO A Daedra in the Dark
+*** TODO Cat and Mouse
+*** TODO Deathbroker
+*** TODO A Path Of Bones
+*** TODO The Face of the Ghost
+* TODO Lucien
+** TODO Questline
+* TODO Wyrmstooth
+  See official guide at [[https://drive.google.com/file/d/18nDoQaEcOK715jETPnD6JwN_5_7gIlfz/view][Guide Link]]
+** TODO Complete 'Way of the Voice'
+** TODO Fill this up
+* TODO Beyond Skyrim
+** TODO Fill this up
