@@ -14,6 +14,8 @@
 *** Allows us to see if the performance gain is worth the trouble
 *** Allows us to make inference on how to further improve the state-of-the-art (more datasets)
 *** Adding another dataset may take some time depending on how difficult acquiring and evaluating on it is
+** Response
+   Although ensemble methods are well-studied in literature, there is a lack of study when it comes to how it can improve grasping scores.  This paper allows us to see what sort of performance benefit there is to ensembling, and what can be achieved with the current state-of-the-art planar grasping algorithms.  In addition, we can draw an interesting conclusion from the results.  We can see that, from a diversity and performance standpoint, current effort must be directed towards better and more varied datasets, rather than more capable experts.  The current planar grasping algorithms show very high performance on their trained dataset, but generalize far less easily when it comes to different datasets.  This should allow us to create better networks and more reliable grasping algorithms, a conclusion that can be seen by looking at the diversity data and the boost in ensemble performance when adding additional datasets.
 * Reviewer dhCr
   Weak Accept
 ** Strengths
@@ -25,7 +27,11 @@
 ** Proposed Response
 *** Novelty complaints are similar to the ones by Reviewer 7H9e, response may be similar
 *** Unseen datasets (having a 3rd dataset) is again similar to the minor point added by Reviewer 7H9e
-*** TODO Can easily add clarification on the benefits of methods vs datasets for diversity
+*** DONE Can easily add clarification on the benefits of methods vs datasets for diversity
+    CLOSED: [2022-08-25 Thu 20:33]
+** Response
+*** Include novelty discussion from Reviewer 7H9e
+*** Added in 5_Results_and_Discussion lines 68-71
 * Reviewer W7kz
   Weak Reject
 ** Strengths
@@ -41,11 +47,18 @@
 *** Missing details on how to train the ensemble network
 ** Proposed Response
 *** TODO Can maybe run some simulation experiments, but it will be quite time consuming
-*** TODO We can add a section in the related work to discuss 6D grasps
+*** DONE We can add a section in the related work to discuss 6D grasps
+    CLOSED: [2022-08-25 Thu 20:33]
 *** Although new algorithms are 6D, planar methods are still widely applicable
     In some settings they may perform better (need to check)
 *** Difficult to evaluate on 6D datasets without heavy pre-processing of the data, but doable
-*** TODO Add details on training ensemble network
+*** DONE Add details on training ensemble network
+    CLOSED: [2022-08-25 Thu 20:40]
+** Response
+   Although the current trend is definitely heading towards 6D grasps, this does not impact the relevance or importance of powerful planar grasping algorithms.  It is often the case that such algorithms suffice in many grasping scenarios, and are capable of grasping a very wide range of objects.  In addition, data for such algorithms is easier to acquire, and algorithms are easier to develop due to their more tractable input space (2 dimensional n-channel images) and output requirements.  Furthermore, these algorithms have been developed for quite some time, and attained high reliability and accuracy on some challenging datasets, often times reaching very high accuracies.  As a result, if 6DoF grasps are not required, 2D planar grasping algorithms can provide a very reliable, accurate solution.
+*** Include novelty discussion from Reviewer 7H9e
+*** Added in 2_Related lines 27-32
+*** Added in 4_Training lines lines 47-59
 * Reviewer QSn3
   Strong Reject
 ** Strengths
@@ -70,3 +83,6 @@
 *** TODO Comparison can be clarified by training experts on all datasets to show
 *** TODO Can add additional explanation for output
 *** Mention that we are the first people discussing the relevance of IoU
+** Response
+   Although IoU scores may not be the best representation of grasp success, and their correlation with actual grasping performance is not well-understood, it is a very common method of measuring planar grasping algorithm performance, and thus for the sake of comparison it has been adopted here as well.  In addition, we believe this is the first paper to bring up this issue, and strive for either stricted IoU requirements (many results here are measured at 50% IoU), or a better metric.
+*** Include novelty discussion from Reviewer 7H9e
