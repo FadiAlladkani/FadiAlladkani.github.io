@@ -84,5 +84,6 @@
 *** TODO Can add additional explanation for output
 *** Mention that we are the first people discussing the relevance of IoU
 ** Response
-   Although IoU scores may not be the best representation of grasp success, and their correlation with actual grasping performance is not well-understood, it is a very common method of measuring planar grasping algorithm performance, and thus for the sake of comparison it has been adopted here as well.  In addition, we believe this is the first paper to bring up this issue, and strive for either stricted IoU requirements (many results here are measured at 50% IoU), or a better metric.
+   Although IoU scores may not be the best representation of grasp success, and their correlation with actual grasping performance is not well-understood, it is a very common method of measuring planar grasping algorithm performance, and thus for the sake of comparison it has been adopted here as well.  In addition, we believe this is the first paper to bring up this issue, and strive for either stricter IoU requirements (many results here are measured at 50% IoU), or a better metric.
+   Concerning the angle output of the network, the GGCNN and GRCNN papers go into great detail about how these work and how angles can be inferred from the network.
 *** Include novelty discussion from Reviewer 7H9e
