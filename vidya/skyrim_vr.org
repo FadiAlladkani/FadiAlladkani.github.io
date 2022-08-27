@@ -29,7 +29,8 @@
 *** TODO Mogo's Mead
 *** TODO The Elven Sword
 *** TODO Relic's Revival
-*** TODO The Paper Mirror
+*** DONE The Paper Mirror
+    CLOSED: [2022-08-26 Fri 21:17]
 *** TODO The Law Always Wins
 *** TODO The Carber and The Collector
 *** TODO The Conspiracy of the 7000 Steps
