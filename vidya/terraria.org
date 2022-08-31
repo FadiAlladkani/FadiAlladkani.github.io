@@ -31,7 +31,8 @@
 ** DONE Jensen, the Grand Harpy
    CLOSED: [2022-08-21 Sun 16:37]
 ** TODO The Star Scouter
-** TODO Deviantt
+** DONE Deviantt
+   CLOSED: [2022-08-28 Sun 20:42]
 ** TODO Wall of Flesh
 ** TODO Cryogen
 ** TODO Borean Strider
@@ -79,7 +80,8 @@
 * Mini-Bosses
 ** DONE Patch Werk
    CLOSED: [2022-08-11 Thu 19:03]
-** TODO Corpse Bloom
+** DONE Corpse Bloom
+   CLOSED: [2022-08-30 Tue 22:51]
 ** TODO Illusionist
 ** TODO Zombie Piglin Brute
 ** TODO Giant Clam
@@ -168,7 +170,7 @@
     CLOSED: [2022-08-12 Fri 14:24]
 *** TODO Diverman
 *** TODO Druid
-*** DONE Spritualist
+*** DONE Spiritualist
     CLOSED: [2022-08-21 Sun 11:19]
 *** TODO Weapon Master
 ** TODO Shadows of Abaddon

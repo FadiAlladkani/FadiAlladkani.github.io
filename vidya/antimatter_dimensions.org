@@ -37,8 +37,10 @@ CLOSED: [2022-08-14 Sun 16:04]
 ** TODO Row 13
 *** DONE No ethical Consumption
     CLOSED: [2022-08-16 Tue 09:53]
-*** TODO Unique snowflakes
-*** TODO I never liked this infinity stuff anyway
+*** DONE Unique snowflakes
+    CLOSED: [2022-08-29 Mon 12:41]
+*** DONE I never liked this infinity stuff anyway
+    CLOSED: [2022-08-29 Mon 12:42]
 *** DONE When will it be enough?
     CLOSED: [2022-08-13 Sat 15:37]
 *** DONE Faster than a potato^286078
