@@ -14,6 +14,10 @@
 ** TODO Infinite scrolling
 ** TODO Better styling of thread titles
 ** TODO Display all board images on click
+** TODO Fix very long text
+   Probably do so by adding elipses after a couple of words
+** TODO Fix embedded html in title/op
+   Can either remove it entirely or consider it HTML (probably best to remove)
 * Scraper
 ** TODO Modified-By deletion criteria
 *** Instead of deleting once we don't see it, delete if it has been unmodified for a while
