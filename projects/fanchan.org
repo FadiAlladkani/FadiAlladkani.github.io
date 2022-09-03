@@ -1,0 +1,21 @@
+* Misc
+** TODO Rename project to FanChan
+** TODO Setup production environment
+* Backend
+** TODO Decide on id issue
+** TODO Cleanup routes
+** TODO Add return code logging
+** TODO Add error handling
+   Make sure production and development are different
+** TODO Add compression
+** TODO Add cache support for stored images
+** TODO Add pagination for images
+* Frontend
+** TODO Infinite scrolling
+** TODO Better styling of thread titles
+** TODO Display all board images on click
+* Scraper
+** TODO Modified-By deletion criteria
+*** Instead of deleting once we don't see it, delete if it has been unmodified for a while
+*** Configure behavior by setting a retention duration
+** TODO Add scrape-report json once done
