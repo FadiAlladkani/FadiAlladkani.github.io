@@ -201,3 +201,192 @@
   This lets us move around the map rapidly, finally resolving those issues
   The list of bosses to kill should reflect this, which would make things much easier
   Our final goal is to kill a single mechanical boss, which is most likely going to be the twins
+* Enchantments
+** TODO Pre-Hardmode
+*** DONE Ancient Cobalt Enchantment
+    CLOSED: [2022-09-02 Fri 16:24]
+*** TODO Angler Enchantment
+*** DONE Boreal Wood Enchantment
+    CLOSED: [2022-09-02 Fri 16:26]
+*** DONE Cactus Enchantment
+    CLOSED: [2022-09-02 Fri 16:29]
+*** DONE Copper Enchantment
+    CLOSED: [2022-09-02 Fri 17:30]
+*** DONE Crier Enchantment
+    CLOSED: [2022-09-02 Fri 17:33]
+*** DONE Ebonwood Enchantment
+    CLOSED: [2022-09-02 Fri 17:47]
+*** DONE Fossil Enchantment
+    CLOSED: [2022-09-02 Fri 23:40]
+*** TODO Gladiator Enchantment
+*** DONE Icy Enchantment
+    CLOSED: [2022-09-02 Fri 23:43]
+*** TODO Iron Enchantment
+*** TODO Jungle Enchantment
+*** TODO Lead Enchantment
+*** TODO Miner Enchantment
+*** DONE Novice Cleric Enchantment
+    CLOSED: [2022-09-03 Sat 00:06]
+*** TODO Palm Wood Enchantment
+*** TODO Platinum Enchantment
+*** TODO Prairie Enchantment
+*** TODO Pumpkin Enchantment
+*** TODO Rain Enchantment
+*** TODO Rich Mahogany Enchantment
+*** TODO Shadewood Enchantment
+*** TODO Silver Enchantment
+*** TODO Snow Enchantment
+*** TODO Snow Ruffian Enchantment
+*** TODO Tungsten Enchantment
+*** TODO Wulfrum Enchantment
+*** TODO Wood Enchantment
+*** TODO Lapis Enchantment
+*** TODO Tin Enchantment
+*** TODO Sandstone Enchantment
+*** TODO Silk Enchantment
+*** TODO Ninja Enchantment
+*** TODO Living Wood Enchantment
+*** TODO Danger Enchantment
+*** TODO Ebon Enchantment
+*** TODO Sulphurous Enchantment
+*** TODO Tide Hunter Enchantment
+*** TODO Yew Wood Enchantment
+*** TODO Victide Enchantment
+*** TODO Shadow Enchantment
+*** TODO Crimson Enchantment
+*** TODO Eerie Enchantment
+*** TODO Jester Enchantment
+*** TODO Malignant Enchantment
+*** TODO Thorium Enchantment
+*** TODO Depth Diver Enchantment
+*** TODO Ocean Enchantment
+*** TODO Aerospec Enchantment
+*** TODO Bee Enchantment
+*** TODO Blooming Enchantment
+*** TODO Frosthunter Enchantment
+*** TODO Dreadfire Enchantment
+*** TODO Obsidian Enchantment
+*** TODO Darksteel Enchantment
+*** TODO Magma Enchantment
+*** TODO Molten Enchantment
+*** TODO Necro Enchantment
+*** TODO Noble Enchantment
+*** TODO Spirit Trapper Enchantment
+*** TODO Steel Enchantment
+*** TODO Templar Enchantment
+*** TODO Granite Enchantment
+*** TODO Blightbone Enchantment
+*** TODO Statigel Enchantment
+*** TODO Bronze Enchantment
+*** TODO Flight Enchantment
+** TODO Hardmode
+*** TODO Adamantite Enchantment
+*** TODO Ancient Shadow Enchantment
+*** TODO Cobalt Enchantment
+*** TODO Flesh Enchantment
+*** TODO Frost Enchantment
+*** TODO Forbidden Enchantment
+*** TODO Geode Enchantment
+*** TODO Gold Enchantment
+*** TODO Iridescent Enchantment
+*** TODO Marching Band Enchantment
+*** TODO Mythril Enchantment
+*** TODO Orichalcum Enchantment
+*** TODO Palladium Enchantment
+*** TODO Pearlwood Enchantment
+*** TODO Plague Doctor Enchantment
+*** TODO Sacred Enchantment
+*** TODO Spider Enchantment
+*** TODO Titanium Enchantment
+*** TODO Wizard Enchantment
+*** TODO Crystal Assassin Enchantment
+*** TODO White Knight Enchantment
+*** TODO Daedalus Enchantment
+*** TODO Space Junk Enchantment
+*** TODO Lodestone Enchantment
+*** TODO Valadium Enchantment
+*** TODO Ancient Hallowed Enchantment
+*** TODO Apprentice Enchantment
+*** TODO Dragon Enchantment
+*** TODO Durasteel Enchantment
+*** TODO Huntress Enchantment
+*** TODO Meteor Enchantment
+*** TODO Monk Enchantment
+*** TODO Squire Enchantment
+*** TODO Bismuth Enchantment
+*** TODO Hallowed Enchantment
+*** TODO Mollusk Enchantment
+*** TODO Biotech Enchantment
+*** TODO Chlorophyte Enchantment
+*** TODO Life Binder Enchantment
+*** TODO Life Bloom Enchantment
+*** TODO Turtle Enchantment
+*** TODO Cyber Punk Enchantment
+*** TODO Lich Enchantment
+*** TODO Warlock Enchantment
+*** TODO Brimflame Enchantment
+*** TODO Fathom Swarmer Enchantment
+*** TODO Umbraphile Enchantment
+*** TODO Cryomancer Enchantment
+*** TODO Demon Blood Enchantment
+*** TODO Dread Enchantment
+*** TODO Fallen Paladin Enchantment
+*** TODO Fungus Enchantment
+*** TODO Harbinger Enchantment
+*** TODO Illumite Enchantment
+*** TODO Maestro Enchantment
+*** TODO Ornate Enchantment
+*** TODO Shade Master Enchantment
+*** TODO Shroomite Enchantment
+*** TODO Spectre Enchantment
+*** TODO Spooky Enchantment
+*** TODO Tiki Enchantment
+*** TODO Reaver Enchantment
+*** TODO Beetle Enchantment
+*** TODO Berserker Enchantment
+*** TODO Dark Artist Enchantment
+*** TODO Marstech Enchantment
+*** TODO Red Riding Enchantment
+*** TODO Shinobi Infiltrator Enchantment
+*** TODO Valhalla Knight Enchantment
+*** TODO Hydrothermic Enchantment
+*** TODO Naga-Skin Enchantment
+*** TODO Titan Enchantment
+*** TODO Whispering Enchantment
+*** TODO Conduit Enchantment
+*** TODO Terrarium Enchantment
+*** TODO Plague Reaper Enchantment
+** TODO Post-Moon_Lord
+*** TODO Celestial Enchantment
+*** TODO Nebula Enchantment
+*** TODO Quasar Enchantment
+*** TODO Shooting Star Enchantment
+*** TODO Solar Enchantment
+*** TODO Stardust Enchantment
+*** TODO Vortex Enchantment
+*** TODO White Dwarf Enchantment
+*** TODO Xeroc Enchantment
+*** TODO Void Warden Enchantment
+*** TODO Vulcan Reaper Enchantment
+*** TODO Astral Enchantment
+*** TODO Assassin Enchantment
+*** TODO Dream Weaver Enchantment
+*** TODO Pyromancer Enchantment
+*** TODO Rhapsodist Enchantment
+*** TODO Tide Turner Enchantment
+*** TODO Exitum Lux Enchantment
+*** TODO Flarium Enchantment
+*** TODO Asthraltite Enchantment
+*** TODO Blazing Brute Enchantment
+*** TODO Cosmic Commander Enchantment
+*** TODO Fallen Prince Enchantment
+*** TODO Nebulous Apprentice Enchantment
+*** TODO Stellar Priest Enchantment
+*** TODO Omega Blue Enchantment
+*** TODO Bloodflare Enchantment
+*** TODO Fearmonger Enchantment
+*** TODO God Slayer Enchantment
+*** TODO Tarragon Enchantment
+*** TODO Silva Enchantment
+*** TODO Auric Tesla Enchantment
+*** TODO Demonshade Enchantment
