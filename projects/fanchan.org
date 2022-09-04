@@ -1,6 +1,9 @@
-* Misc
+* DevOps
 ** TODO Rename project to FanChan
 ** TODO Setup production environment
+** TODO Pushing to GitHub
+** TODO Github Actions workflow for automated testing
+** TODO Custom environment for tests (maybe jest-containers?)
 * Backend
 ** TODO Decide on id issue
 ** TODO Cleanup routes
@@ -14,12 +17,18 @@
 ** TODO Infinite scrolling
 ** TODO Better styling of thread titles
 ** TODO Display all board images on click
-** TODO Fix very long text
+** DONE Fix very long text
+   CLOSED: [2022-09-04 Sun 00:33]
    Probably do so by adding elipses after a couple of words
-** TODO Fix embedded html in title/op
+** DONE Fix embedded html in title/op
+   CLOSED: [2022-09-04 Sun 00:20]
    Can either remove it entirely or consider it HTML (probably best to remove)
+** TODO Display of images alongside thread title/op
 * Scraper
 ** TODO Modified-By deletion criteria
 *** Instead of deleting once we don't see it, delete if it has been unmodified for a while
 *** Configure behavior by setting a retention duration
 ** TODO Add scrape-report json once done
+** TODO Resize images to target size before saving
+   Maybe skip using thumbnails completely due to low res
+** TODO Add tests

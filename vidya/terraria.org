@@ -36,7 +36,8 @@
 ** DONE Wall of Flesh
    CLOSED: [2022-09-02 Fri 11:14]
 ** TODO Cryogen
-** TODO Borean Strider
+** DONE Borean Strider
+   CLOSED: [2022-09-03 Sat 16:34]
 ** TODO Araneas
 ** TODO Coznix, the Fallen Beholder
 ** TODO The Twins
@@ -145,7 +146,8 @@
 *** DONE Wizard
     CLOSED: [2022-09-02 Fri 11:29]
 *** TODO Truffle
-*** TODO Pirate
+*** DONE Pirate
+    CLOSED: [2022-09-03 Sat 15:57]
 *** TODO Steampunker
 *** TODO Cyborg
 *** TODO Santa Claus
