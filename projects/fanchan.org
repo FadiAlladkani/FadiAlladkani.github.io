@@ -8,11 +8,16 @@
 ** TODO Decide on id issue
 ** TODO Cleanup routes
 ** TODO Add return code logging
-** TODO Add error handling
+** DONE Add error handling
+   CLOSED: [2022-09-05 Mon 05:14]
    Make sure production and development are different
 ** TODO Add compression
 ** TODO Add cache support for stored images
 ** TODO Add pagination for images
+** DONE Fix missing page error
+   CLOSED: [2022-09-05 Mon 04:29]
+** DONE Fix 404 error
+   CLOSED: [2022-09-05 Mon 05:14]
 * Frontend
 ** TODO Infinite scrolling
 ** TODO Better styling of thread titles
@@ -31,4 +36,5 @@
 ** TODO Add scrape-report json once done
 ** TODO Resize images to target size before saving
    Maybe skip using thumbnails completely due to low res
+   Will need to store original image too
 ** TODO Add tests
