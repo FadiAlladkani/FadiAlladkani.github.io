@@ -26,7 +26,8 @@ CLOSED: [2022-08-19 Fri 03:46]
     CLOSED: [2022-08-23 Tue 08:27]
 *** DONE 5
     CLOSED: [2022-08-23 Tue 08:27]
-* TODO Achievements
+* DONE Achievements
+  CLOSED: [2022-09-04 Sun 23:47]
 ** DONE Row 12
 CLOSED: [2022-08-14 Sun 16:49]
 *** DONE Popular Music
@@ -34,7 +35,8 @@ CLOSED: [2022-08-14 Sun 16:49]
     Should probably spec into Active Path, reach 180, infinity to reset AM Galaxies
 *** DONE What do I have to do to get rid of you
 CLOSED: [2022-08-14 Sun 16:04]
-** TODO Row 13
+** DONE Row 13
+   CLOSED: [2022-09-04 Sun 23:47]
 *** DONE No ethical Consumption
     CLOSED: [2022-08-16 Tue 09:53]
 *** DONE Unique snowflakes
@@ -49,14 +51,17 @@ CLOSED: [2022-08-14 Sun 16:04]
     CLOSED: [2022-08-22 Mon 18:34]
 *** DONE Now you're thinking with dilation!
     CLOSED: [2022-08-25 Thu 09:02]
-*** TODO This is what I have to do to get rid of you
+*** DONE This is what I have to do to get rid of you
+    CLOSED: [2022-09-04 Sun 23:47]
 * TODO Secret Achievements
 ** TODO Row 1
 *** TODO It pays to have respect
     Press F
-*** TODO So do I
+*** DONE So do I
+    CLOSED: [2022-09-04 Sun 23:41]
     Import "IEATASS"
-*** TODO Do a barrel roll!
+*** DONE Do a barrel roll!
+    CLOSED: [2022-09-04 Sun 23:42]
     Import "DOABARRELROLL"
 *** TODO Do you enjoy pain?
     Use "painful" notation for 10 minutes (e.g. Cancer)
@@ -65,7 +70,7 @@ CLOSED: [2022-08-14 Sun 16:04]
     Buy 100,000 Antimatter galaxies w/ Cancer notation
 *** TODO Professional landscaper
     Play in landscape mode for 10 minutes
-*** TODO Shhh... It's a secret
+*** TODO Shhh.. It's a secret
     A bunch of secret themes can be imported
 **** Cancer
 **** Christmas
@@ -73,14 +78,18 @@ CLOSED: [2022-08-14 Sun 16:04]
 **** Confused
 **** Nicolas
 ** TODO Row 3
-*** TODO A sound financial decision
+*** DONE A sound financial decision
+    CLOSED: [2022-09-04 Sun 23:45]
     Press "Buy more" button on the "Shop" tab
 *** TODO Should we tell them about buy max...
     Buy single tickspeed 100,000 (spread across all eternities)
-*** TODO You followed the instructions
+*** DONE Yo0u followed the instructions
+    CLOSED: [2022-09-04 Sun 23:45]
     Import "tree" as a study tree
-*** TODO Theoretical degree in physics
-    Open and real all pages in the How to Play tab, including the Dilation tab
+*** DONE Theoretical degree in physics
+    CLOSED: [2022-09-04 Sun 23:46]
+    Open and read all pages in the How to Play tab, including the Dilation tab
+* TODO Reach e4000 EP
 * TS Tree
   Try to find the optimal choice of TS tree to complete the challenges above
 ** Iteration 1

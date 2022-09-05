@@ -155,7 +155,8 @@
 ** TODO Calamity
 *** DONE Sea King
     CLOSED: [2022-08-12 Fri 14:22]
-*** TODO Bandit
+*** DONE Bandit
+    CLOSED: [2022-09-04 Sun 19:02]
 *** TODO Drunk Princess
 *** TODO Archmage
 *** TODO Brimstone Witch
@@ -241,7 +242,8 @@
 *** TODO Snow Ruffian Enchantment
 *** TODO Tungsten Enchantment
 *** TODO Wulfrum Enchantment
-*** TODO Wood Enchantment
+*** DONE Wood Enchantment
+    CLOSED: [2022-09-04 Sun 15:49]
 *** TODO Lapis Enchantment
 *** TODO Tin Enchantment
 *** TODO Sandstone Enchantment
