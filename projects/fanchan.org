@@ -1,12 +1,19 @@
 * DevOps
-** TODO Rename project to FanChan
+** DONE Rename project to FanChan
+   CLOSED: [2022-09-05 Mon 09:54]
 ** TODO Setup production environment
-** TODO Pushing to GitHub
+** DONE Pushing to GitHub
+   CLOSED: [2022-09-05 Mon 09:54]
 ** TODO Github Actions workflow for automated testing
-** TODO Custom environment for tests (maybe jest-containers?)
+** DONE Custom environment for tests (maybe jest-containers?)
+   CLOSED: [2022-09-05 Mon 09:54]
+** DONE Fix issue with tests overwriting dev postgres data
+   CLOSED: [2022-09-06 Tue 03:23]
+   Ended up creating separate database and having separet dev/test .env files
 * Backend
 ** TODO Decide on id issue
-** TODO Cleanup routes
+** DONE Cleanup routes
+   CLOSED: [2022-09-06 Tue 03:36]
 ** TODO Add return code logging
 ** DONE Add error handling
    CLOSED: [2022-09-05 Mon 05:14]

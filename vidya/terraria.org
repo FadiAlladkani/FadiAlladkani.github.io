@@ -40,7 +40,8 @@
    CLOSED: [2022-09-03 Sat 16:34]
 ** TODO Araneas
 ** TODO Coznix, the Fallen Beholder
-** TODO The Twins
+** DONE The Twins
+   CLOSED: [2022-09-06 Tue 06:48]
 ** TODO Aquatic Scourge
 ** TODO The Destroyer
 ** TODO Brimstone Elemental
@@ -148,7 +149,8 @@
 *** TODO Truffle
 *** DONE Pirate
     CLOSED: [2022-09-03 Sat 15:57]
-*** TODO Steampunker
+*** DONE Steampunker
+    CLOSED: [2022-09-06 Tue 06:48]
 *** TODO Cyborg
 *** TODO Santa Claus
 *** TODO Princess
@@ -208,7 +210,8 @@
 ** TODO Pre-Hardmode
 *** DONE Ancient Cobalt Enchantment
     CLOSED: [2022-09-02 Fri 16:24]
-*** TODO Angler Enchantment
+*** DONE Angler Enchantment
+    CLOSED: [2022-09-07 Wed 02:23]
 *** DONE Boreal Wood Enchantment
     CLOSED: [2022-09-02 Fri 16:26]
 *** DONE Cactus Enchantment
@@ -280,7 +283,8 @@
 *** TODO Templar Enchantment
 *** TODO Granite Enchantment
 *** TODO Blightbone Enchantment
-*** TODO Statigel Enchantment
+*** DONE Statigel Enchantment
+    CLOSED: [2022-09-06 Tue 11:09]
 *** TODO Bronze Enchantment
 *** TODO Flight Enchantment
 ** TODO Hardmode
