@@ -42,8 +42,10 @@
 ** TODO Coznix, the Fallen Beholder
 ** DONE The Twins
    CLOSED: [2022-09-06 Tue 06:48]
-** TODO Aquatic Scourge
-** TODO The Destroyer
+** DONE Aquatic Scourge
+   CLOSED: [2022-09-08 Thu 14:20]
+** DONE The Destroyer
+   CLOSED: [2022-09-09 Fri 03:18]
 ** TODO Brimstone Elemental
 ** TODO Skeletron Prime
 ** TODO The Lich
@@ -87,7 +89,8 @@
    CLOSED: [2022-08-30 Tue 22:51]
 ** TODO Illusionist
 ** TODO Zombie Piglin Brute
-** TODO Giant Clam
+** DONE Giant Clam
+   CLOSED: [2022-09-08 Thu 07:04]
 ** TODO Earth Elemental
 ** TODO Cloud Elemental
 ** TODO Cragmaw Mire
@@ -159,8 +162,10 @@
     CLOSED: [2022-08-12 Fri 14:22]
 *** DONE Bandit
     CLOSED: [2022-09-04 Sun 19:02]
-*** TODO Drunk Princess
-*** TODO Archmage
+*** DONE Drunk Princess
+    CLOSED: [2022-09-09 Fri 04:34]
+*** DONE Archmage
+    CLOSED: [2022-09-08 Thu 07:13]
 *** TODO Brimstone Witch
 ** TODO Thorium
 *** DONE Cobbler
@@ -224,7 +229,8 @@
     CLOSED: [2022-09-02 Fri 17:47]
 *** DONE Fossil Enchantment
     CLOSED: [2022-09-02 Fri 23:40]
-*** TODO Gladiator Enchantment
+*** DONE Gladiator Enchantment
+    CLOSED: [2022-09-07 Wed 02:49]
 *** DONE Icy Enchantment
     CLOSED: [2022-09-02 Fri 23:43]
 *** TODO Iron Enchantment
@@ -398,3 +404,4 @@
 *** TODO Silva Enchantment
 *** TODO Auric Tesla Enchantment
 *** TODO Demonshade Enchantment
+* TODO Collect mana fruit

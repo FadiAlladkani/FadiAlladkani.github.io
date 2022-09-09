@@ -54,8 +54,10 @@ CLOSED: [2022-08-14 Sun 16:04]
 *** DONE This is what I have to do to get rid of you
     CLOSED: [2022-09-04 Sun 23:47]
 * TODO Secret Achievements
-** TODO Row 1
-*** TODO It pays to have respect
+** DONE Row 1
+   CLOSED: [2022-09-08 Thu 05:47]
+*** DONE It pays to have respect
+    CLOSED: [2022-09-08 Thu 05:36]
     Press F
 *** DONE So do I
     CLOSED: [2022-09-04 Sun 23:41]
@@ -63,7 +65,8 @@ CLOSED: [2022-08-14 Sun 16:04]
 *** DONE Do a barrel roll!
     CLOSED: [2022-09-04 Sun 23:42]
     Import "DOABARRELROLL"
-*** TODO Do you enjoy pain?
+*** DONE Do you enjoy pain?
+    CLOSED: [2022-09-08 Thu 05:47]
     Use "painful" notation for 10 minutes (e.g. Cancer)
 ** TODO Row 2
 *** TODO Deep Fried
@@ -89,7 +92,8 @@ CLOSED: [2022-08-14 Sun 16:04]
 *** DONE Theoretical degree in physics
     CLOSED: [2022-09-04 Sun 23:46]
     Open and read all pages in the How to Play tab, including the Dilation tab
-* TODO Reach e4000 EP
+* DONE Reach e4000 EP
+  CLOSED: [2022-09-08 Thu 05:30]
 * TS Tree
   Try to find the optimal choice of TS tree to complete the challenges above
 ** Iteration 1
