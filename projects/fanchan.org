@@ -20,15 +20,20 @@
    Make sure production and development are different
 ** TODO Add compression
 ** TODO Add cache support for stored images
-** TODO Add pagination for images
+** DONE Add pagination for images
+   CLOSED: [2022-09-10 Sat 08:54]
 ** DONE Fix missing page error
    CLOSED: [2022-09-05 Mon 04:29]
 ** DONE Fix 404 error
    CLOSED: [2022-09-05 Mon 05:14]
+** TODO Send 404s in images route for missing board/thread
+** TODO This link produces an error: ext/js/package.json
 * Frontend
-** TODO Infinite scrolling
+** DONE Infinite scrolling
+   CLOSED: [2022-09-10 Sat 15:49]
 ** TODO Better styling of thread titles
-** TODO Display all board images on click
+** DONE Display all board images on click
+   CLOSED: [2022-09-10 Sat 16:27]
 ** DONE Fix very long text
    CLOSED: [2022-09-04 Sun 00:33]
    Probably do so by adding elipses after a couple of words
@@ -36,6 +41,10 @@
    CLOSED: [2022-09-04 Sun 00:20]
    Can either remove it entirely or consider it HTML (probably best to remove)
 ** TODO Display of images alongside thread title/op
+** DONE Termination criteria for infinite scrolling
+   CLOSED: [2022-09-10 Sat 16:27]
+** TODO Fix layout issues (maybe use imagesLoaded?)
+   Should probably use imagesLoaded after appending elements to call masonry.layout()
 * Scraper
 ** TODO Modified-By deletion criteria
 *** Instead of deleting once we don't see it, delete if it has been unmodified for a while

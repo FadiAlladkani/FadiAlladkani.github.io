@@ -46,7 +46,8 @@
    CLOSED: [2022-09-08 Thu 14:20]
 ** DONE The Destroyer
    CLOSED: [2022-09-09 Fri 03:18]
-** TODO Brimstone Elemental
+** DONE Brimstone Elemental
+   CLOSED: [2022-09-10 Sat 07:22]
 ** TODO Skeletron Prime
 ** TODO The Lich
 ** TODO Calamitas
@@ -233,7 +234,8 @@
     CLOSED: [2022-09-07 Wed 02:49]
 *** DONE Icy Enchantment
     CLOSED: [2022-09-02 Fri 23:43]
-*** TODO Iron Enchantment
+*** DONE Iron Enchantment
+    CLOSED: [2022-09-10 Sat 05:55]
 *** TODO Jungle Enchantment
 *** TODO Lead Enchantment
 *** TODO Miner Enchantment
