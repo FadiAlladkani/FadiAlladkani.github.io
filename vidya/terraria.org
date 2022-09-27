@@ -35,7 +35,8 @@
    CLOSED: [2022-08-28 Sun 20:42]
 ** DONE Wall of Flesh
    CLOSED: [2022-09-02 Fri 11:14]
-** TODO Cryogen
+** DONE Cryogen
+   CLOSED: [2022-09-27 Tue 18:27]
 ** DONE Borean Strider
    CLOSED: [2022-09-03 Sat 16:34]
 ** TODO Araneas
@@ -48,7 +49,8 @@
    CLOSED: [2022-09-09 Fri 03:18]
 ** DONE Brimstone Elemental
    CLOSED: [2022-09-10 Sat 07:22]
-** TODO Skeletron Prime
+** DONE Skeletron Prime
+   CLOSED: [2022-09-27 Tue 17:41]
 ** TODO The Lich
 ** TODO Calamitas
 ** TODO Harpy Queen, Raynare
@@ -236,9 +238,12 @@
     CLOSED: [2022-09-02 Fri 23:43]
 *** DONE Iron Enchantment
     CLOSED: [2022-09-10 Sat 05:55]
-*** TODO Jungle Enchantment
-*** TODO Lead Enchantment
-*** TODO Miner Enchantment
+*** DONE Jungle Enchantment
+    CLOSED: [2022-09-27 Tue 18:28]
+*** DONE Lead Enchantment
+    CLOSED: [2022-09-27 Tue 18:30]
+*** DONE Miner Enchantment
+    CLOSED: [2022-09-27 Tue 18:33]
 *** DONE Novice Cleric Enchantment
     CLOSED: [2022-09-03 Sat 00:06]
 *** TODO Palm Wood Enchantment

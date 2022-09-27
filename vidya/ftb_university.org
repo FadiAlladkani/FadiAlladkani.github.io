@@ -1,0 +1,79 @@
+* TODO Final Item Checklist
+** DONE Dense Cobblestone Gen    x12
+   CLOSED: [2022-09-15 Thu 10:10]
+** DONE 16384k ME Storage        x4
+   CLOSED: [2022-09-15 Thu 12:01]
+** DONE Creative Storage Upgrade x4
+   CLOSED: [2022-09-15 Thu 12:06]
+** DONE Creative Drum            x5
+   CLOSED: [2022-09-16 Fri 05:04]
+** TODO Creative IC2 Generator   x2
+** TODO Ultimate Stew            x2
+** TODO Cosmic Meatballs         x2
+** DONE Ultimate Component       x4
+   CLOSED: [2022-09-16 Fri 02:55]
+** TODO Creative Mill            x2
+*** DONE Solar Panel              x18
+    CLOSED: [2022-09-15 Thu 07:41]
+*** DONE Lunar Panel              x18
+    CLOSED: [2022-09-15 Thu 07:42]
+*** DONE Demon Singularity        x10
+    CLOSED: [2022-09-15 Thu 08:44]
+*** DONE Evil Iron Singularity    x10
+    CLOSED: [2022-09-15 Thu 07:34]
+*** DONE Moon Stone               x2
+    CLOSED: [2022-09-15 Thu 07:35]
+*** DONE Magical Snow Globe       x2
+    CLOSED: [2022-09-15 Thu 12:19]
+*** DONE Biome Marker (Moon)      x2
+    CLOSED: [2022-09-16 Fri 18:44]
+*** DONE Biome Marker (Mushroom)  x2
+    CLOSED: [2022-09-16 Fri 03:15]
+*** DONE Biome Marker (End)       x2
+    CLOSED: [2022-09-16 Fri 18:44]
+*** DONE Biome Marker (Hell)      x2
+    CLOSED: [2022-09-16 Fri 18:44]
+*** DONE Lux Saber                x2
+    CLOSED: [2022-09-16 Fri 03:22]
+*** DONE Fire Axe                 x2
+    CLOSED: [2022-09-16 Fri 03:54]
+*** DONE Compound Bow             x2
+    CLOSED: [2022-09-16 Fri 03:55]
+*** DONE Kikoku                   x2
+    CLOSED: [2022-09-16 Fri 03:55]
+*** DONE Looting VI               x2
+    CLOSED: [2022-09-16 Fri 04:05]
+*** DONE Sharpness X              x2
+    CLOSED: [2022-09-16 Fri 04:05]
+*** DONE Upgrade Speed (Ultimate) x8
+    CLOSED: [2022-09-16 Fri 18:44]
+*** TODO Infinity Catalyst        x16
+** DONE Creative Compressor      x2
+   CLOSED: [2022-09-16 Fri 10:16]
+** DONE Elite Lithium Ion        x8
+   CLOSED: [2022-09-16 Fri 18:45]
+*** DONE U-238                      x1903
+    CLOSED: [2022-09-16 Fri 07:49]
+*** DONE Crystal Binder             x3584
+    CLOSED: [2022-09-16 Fri 08:39]
+*** DONE Manganese Dioxide Ingot    x1348
+    CLOSED: [2022-09-16 Fri 08:29]
+** DONE Vibrant Capacitor Bank   x20
+   CLOSED: [2022-09-16 Fri 05:20]
+** DONE Creative Gas Tank        x1
+   CLOSED: [2022-09-16 Fri 07:48]
+** DONE Storage Upgrade V        x4
+   CLOSED: [2022-09-15 Thu 07:34]
+** DONE Storage Upgrade IV       x4
+   CLOSED: [2022-09-15 Thu 07:34]
+** DONE Comp Octuple Comp Cobb   x1
+   CLOSED: [2022-09-15 Thu 07:38]
+** TODO Solar Array Controller   x4
+** TODO Aethium Solar Cell       x8
+** DONE Creative Mana Tablet     x1
+   CLOSED: [2022-09-15 Thu 08:45]
+** DONE Everlasting Guilty Pool  x1
+   CLOSED: [2022-09-16 Fri 04:36]
+** TODO Creative Cheese          x1
+** DONE Warded Chest             x1
+   CLOSED: [2022-09-15 Thu 07:39]

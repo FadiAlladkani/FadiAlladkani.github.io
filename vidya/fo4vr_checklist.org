@@ -1,0 +1,52 @@
+* DONE F4SEVR
+  CLOSED: [2022-09-17 Sat 19:45]
+** DONE Test FO4VR to make sure it is working
+   CLOSED: [2022-09-17 Sat 19:45]
+* TODO Customize Settings
+** TODO Comfort Sneaking   OFF
+** TODO Item Highlighting  OFF
+** TODO Character Lighting OFF
+** TODO TAA                ON
+* DONE FallUI
+  CLOSED: [2022-09-17 Sat 20:30]
+* DONE FRIK
+  CLOSED: [2022-09-18 Sun 16:46]
+** DONE Test FO4VR to make sure it is working
+   CLOSED: [2022-09-18 Sun 16:46]
+* DONE Binaural 3D Surround Sound
+  CLOSED: [2022-09-18 Sun 16:48]
+* TODO Download VR Perf Kit
+** TODO Test FO4VR to make sure it is working
+** TODO Tweak settings until game looks OK
+* DONE Download Vivid Weathers
+  CLOSED: [2022-09-18 Sun 16:58]
+* DONE Download Optimized Vanilla Textures
+  CLOSED: [2022-09-18 Sun 17:10]
+* DONE Download Far Away Area Reform
+  CLOSED: [2022-09-18 Sun 17:20]
+* DONE Download Vivid Fallout - All In One (2k)
+  CLOSED: [2022-09-18 Sun 17:09]
+* DONE Download FlaconOil Complete Retexture Project
+  CLOSED: [2022-09-18 Sun 17:16]
+* TODO Download Boston Natural Surroundings
+** TODO Download VR LOD Crash
+* DONE Download True Grass
+  CLOSED: [2022-09-18 Sun 17:30]
+* DONE Download Roads Redone
+  CLOSED: [2022-09-18 Sun 17:29]
+* DONE Download Gravel Redone
+  CLOSED: [2022-09-18 Sun 17:29]
+* DONE Download WET
+  CLOSED: [2022-09-18 Sun 17:29]
+* DONE Download All Weapons HD
+  CLOSED: [2022-09-18 Sun 17:46]
+* DONE Download Crows and Creatures
+  CLOSED: [2022-09-18 Sun 17:46]
+* TODO Download Armorsmith Extended
+* DONE Download Weapon Accuracy Redone For VR
+  CLOSED: [2022-09-21 Wed 20:43]
+* DONE Download Arbitration
+  CLOSED: [2022-09-21 Wed 20:57]
+* TODO Download Sim Settlements 2
+* DONE Download Unlimited Survival
+  CLOSED: [2022-09-21 Wed 21:13]
